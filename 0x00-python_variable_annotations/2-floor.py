@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
-
-import math
-
 '''
 Basic annotations - floor
 '''
 
+import math
+
 
 def floor(n: float) -> int:
     '''
-    Floor of a float
+    Takes arg n and returns the floor of the float.
 
     Args:
         n (float): argument
